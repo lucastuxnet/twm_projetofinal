@@ -1,0 +1,24 @@
+body {font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+
+.ContainerPrestador {  
+  padding: 10px;
+  margin-top: 70px;
+  height: auto;
+}
+
+.ContainerAddSinistro {  
+  padding: 10px;
+  margin-top: 70px;
+  height: 100%;
+}
+
+.container .txtPrestador{        
+  /* height: 40px;  */
+  /* margin: 3px 0; */
+  border-radius: 4px;
+  width: 100%;
+  padding: 12px;      
+}
+
