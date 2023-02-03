@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  flex-flow: column;
+}
+
+.container-plan {
+  align-self: center;
+}
+
+.wrapper-plan {
+  display: flex;
+  gap: 16px;
+  height: auto;
+  flex-wrap: wrap;
+}
+
+.description-plan {
+  max-height: 100px;
+  overflow: auto;
+  overflow-x: hidden;
+}
