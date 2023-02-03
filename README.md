@@ -3,20 +3,20 @@ Trabalho Final de TWM
 
 Construir uma seguradorado usando react\bootstrap\nodejs\postgresql
 
-### Instalação
+## Instalação front
 
 Para realizar a instalação da aplicação:
 
 - Executar o comando `npm ci`
 
-### Executar em desenvolvimento
+## Executar em desenvolvimento
 
 Para realizar a execução da aplicação em desenvolvimento:
 
 - Executar o romando `npm run dev`
 - A aplicação rodará na porta \*\*\5173\*\*
 
-#### Instalação backend
+### Instalação backend
 
 ## Requisitos
 - Python 3.x
