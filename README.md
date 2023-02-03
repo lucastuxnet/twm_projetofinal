@@ -3,24 +3,15 @@ Trabalho Final de TWM
 
 Construir uma seguradorado usando react\bootstrap\nodejs\postgresql
 
-#Trabalho não concluido.
+### Instalação
 
-Problemas backend:
+Para realizar a instalação da aplicação:
 
-Problema com duas rotas, cadastro de sinistros e cadastro de chamados.
-- Variavéis não reconhecidas no banco.
-- Problema com ID para deletar e alterar.
+- Executar o comando `npm ci`
 
-Problemas frontend:
+### Executar em desenvolvimento
 
-Problemas com atualização, leitura e inserção no banco.
-- Comunicação com o banco é efetivada mas alterações não são feitas.
+Para realizar a execução da aplicação em desenvolvimento:
 
-
-#Backend
-npm install
-npm run dev
-
-#Frontend
-npm install
-npm start
+- Executar o romando `npm run dev`
+- A aplicação rodará na porta \*\*\5173\*\*
