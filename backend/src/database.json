@@ -1,0 +1,95 @@
+{
+  "plans": [
+    {
+      "id": 1,
+      "name": "Prata",
+      "description": "Cobertura parcial"
+    },
+    {
+      "id": 2,
+      "name": "Ouro",
+      "description": "Cobertura total"
+    },
+    {
+      "id": 3,
+      "name": "Platina",
+      "description": "Cobertura personalizada"
+    }
+  ],
+  "sinistrosTypes": [
+    {
+      "id": 1,
+      "name": "Incêndio"
+    },
+    {
+      "id": 2,
+      "name": "Explosão"
+    },
+    {
+      "id": 3,
+      "name": "Queda de Raio"
+    },
+    {
+      "id": 4,
+      "name": "Desastres não Naturais"
+    },
+    {
+      "id": 5,
+      "name": "Desastres Naturais"
+    },
+    {
+      "id": 6,
+      "name": "Roubo ou Furto"
+    },
+    {
+      "id": 7,
+      "name": "Danos elétricos"
+    },
+    {
+      "id": 8,
+      "name": "Arrombamento"
+    },
+    {
+      "id": 9,
+      "name": "Quebra de vidros, esplhos e pedras"
+    },
+    {
+      "id": 10,
+      "name": "Perda ou Pagamento de Aluguel"
+    }
+  ],
+  "technicians": [
+    {
+      "matricula": "1",
+      "technicianBy": "Salvar",
+      "name": "João Paulo",
+      "email": "joao@test.com",
+      "phone": "11999999999",
+      "cpf": "00000000000",
+      "nctps": "12312312313",
+      "cep": "12000000",
+      "street": "Rua Primeiro de Julho",
+      "district": "São Paulo",
+      "city": "São Paulo"
+    }
+  ],
+  "usuarios": [
+    {
+      "apolice": "1",
+      "name": "João Paulo",
+      "email": "joao@test.com",
+      "planType": "Prata",
+      "phone": "11999999999",
+      "cpf": "00000000000",
+      "cep": "12000000",
+      "street": "Rua Primeiro de Julho",
+      "district": "São Paulo",
+      "city": "São Paulo"
+    }
+  ],
+  "sinistros": [
+  ],
+  "chamados": [
+
+  ]
+}
